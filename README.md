@@ -19,7 +19,7 @@ Este repositório tem como objetivo apresentar e explorar a história do Brasil,
 
 Markdown (.md) → Para estruturação e documentação do conteúdo
 Git e GitHub → Para versionamento e colaboração
-HTML/CSS/sass/JavaScript → para estruturação e interação do site
+HTML/CSS/sass/JavaScript e BootStrap → para estruturação e interação do site
 
 📌 Conteúdos Abordados
 
