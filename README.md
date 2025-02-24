@@ -24,7 +24,7 @@ HTML/CSS/sass/JavaScript e BootStrap → para estruturação e interação do si
 📌 Conteúdos Abordados
 
 ✔️ Descobrimento e Colonização Portuguesa
-✔️ Era Vargas e Ditadura Militar
+✔️ Era Vargas
 ✔️ Redemocratização e Brasil Contemporâneo
 
 
